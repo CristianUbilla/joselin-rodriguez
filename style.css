@@ -393,6 +393,13 @@ body {
 }
 
 /* Media Queries */
+
+@media (max-width: 1285px) {
+    .home-img{
+        width: 50vh;
+    }
+}
+
 @media (max-width: 991px) {
     .header {
         padding: 2rem 3%;
